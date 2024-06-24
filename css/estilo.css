@@ -1,0 +1,10 @@
+#teste {
+    background-image: url("../img/octocat.png  ");
+    
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    width: 100px;
+    height: 100px;
+    filter: drop-shadow(8px 8px 10px rgb(255, 255, 255));
+}
+
